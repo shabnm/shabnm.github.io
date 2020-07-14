@@ -1,9 +1,11 @@
 title: SHABNAM HASAN # your name (or website title) here
-logo: "/images/mypic.PNG?raw=true" # your photo (or logo) here
+logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am an enthusiastic and determined Machine Learning Engineer who takes pride in building models that translate data into insight.
   My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.
   I am eager to apply the knowledge and experience in designing and conduct of projects addressing real-world issues.
+  <br><br>
+  second description
   <br><br>
   <a href="https://www.linkedin.com/in/shabnam-hasan-1588949a">View My LinkedIn Profile</a> 
   
