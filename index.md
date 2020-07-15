@@ -45,6 +45,6 @@ Implemented Boolean retrieval and Ranked retrieval model, on the inverted index,
 
 ---
 > [Comparative study of programming language]<br/>
-3 Individual projects were given in 3 different languages, namely python, clojure and erlang in a very short duration. With my strong learning skills, I learnt clojure and erlang from scratch and built the project efficiently in the time frame.
+3 Individual projects were given in 3 different languages, namely [python](https://github.com/shabnm/Comparative_programming_P1_COMP6411), [clojure](https://github.com/shabnm/Comparative_programming_P2_COMP6411) and [erlang](https://github.com/shabnm/Comparative_programming_P3_COMP6411) in a very short duration. With my strong learning skills, I learnt clojure and erlang from scratch and built the project efficiently in the time frame.
 
 ---
