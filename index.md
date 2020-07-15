@@ -1,7 +1,7 @@
 ## ABOUT ME
-I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development. Apart from my university courses, I have gained knowledge and improved my technical and non-tech skills through online courses, workshops, hackathons and volunteer works.I was VP membership 2019-2020 for ["Data Innovation Playground"]( http://dipconcordia.com/) society of Concordia University. I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen music(24*7), visit places, workout and what not.
+I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development. Apart from my university courses, I have gained knowledge and improved my technical and non-tech skills through online courses, workshops, hackathons and volunteer works. I was VP membership 2019-2020 for ["Data Innovation Playground"]( http://dipconcordia.com/) society of Concordia University. I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen music(24*7), visit places, workout and what not.
 
-## Projects I have worked on
+## Projects
 
 ---
 > [Object Detection and Tracking](https://launchlab.ai/rd-program/)<br/>
