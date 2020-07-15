@@ -9,14 +9,16 @@ Brainstormed on finding the right dataset and deciding on different activity rec
 > [Machine Learning](/pdf/sample_presentation.pdf)
 Dataset from different sources are given to us, and we performed supervised learning on labelled data to predict the output of future inputs.<br/>
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
-Pipeline used: (https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG)
+Pipeline used: 
+![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG)
 Performing hyperparameter search(shown below are classification models only), evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/>
-(https://github.com/shabnm/shabnm.github.io/blob/master/images/hyperparameter_tuning.PNG)
+![Test Image 2](https://github.com/shabnm/shabnm.github.io/blob/master/images/hyperparameter_tuning.PNG)
 Loading and training a CNN using PyTorch to classify images in the CIFAR-10 dataset.<br/>
-We build 2 model, basic(Model1) and advance(Model2)
-[Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn1.PNG)
-[Model2](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn2.PNG)
-Results obtained are: ([Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/result.PNG))<br/>
+We build 2 model, basic(Model1) and advance(Model2)<br/>
+![Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn1.PNG)
+![Model2](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn2.PNG)
+Results obtained are: 
+![Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/result.PNG)<br/>
 
 ---
 > [ImplementAI Hackathon](https://github.com/shabnm/CAE_Shabnam)
