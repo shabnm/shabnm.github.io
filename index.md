@@ -28,7 +28,7 @@ Results obtained are:
 CAE has collected data during the training session of pilots and their responses of being flagged or not. Based on pre-labelled data, we train a model to flag pilot accurately on future training sessions of pilot.<br/>
 
 ---
-> [Artificial Intelligence]<br/>
+> [Artificial Intelligence](https://github.com/shabnm/COMP6721_SPAM_HAM_classifier)<br/>
 Teaming with a classmate to build an efficient adversarial search algorithm to play the game Double Card. We implemented minimax and alpha beta pruning along with our heuristics, to optimize the search. Our AI beat 85% of the students during the class tournament.
 The 2nd project includes building a Spam\Ham classifier using  Naive-Bayes classifier to sort emails into SPAM and HAM classes. We started by cleaning the document by removing stop words, removing most and least frequent words, stemming and then creating the inverted index and performing the classification. Confusion matrix was used to see the result.
 
