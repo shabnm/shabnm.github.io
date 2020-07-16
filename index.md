@@ -4,7 +4,7 @@ I am a Machine Learning Engineer, who takes pride in building models that transl
 ## Projects
 
 ---
-> [Object Detection and Tracking](https://launchlab.ai/rd-program/)<br/>
+> [Object Detection and Tracking](https://github.com/shabnm/shabnm.github.io/blob/master/sample_page.md)<br/>
 Working to train a model to identify the workout type performed by user and correct them in real-time for Home fitness program.
 Brainstormed on finding the right dataset and deciding on different activity recognition approaches.
 
