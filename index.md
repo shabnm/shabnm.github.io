@@ -1,7 +1,6 @@
 ## ABOUT ME
 I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> Apart from my university courses, I have gained knowledge and improved my technical and non-tech skills through online courses, workshops, hackathons and volunteer works.<br/> I was VP membership 2019-2020 for ["Data Innovation Playground"]( http://dipconcordia.com/) society of Concordia University.<br/>I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
-
-### Motive : I want to utilize my knowledge and skills to help our people and environment. 
+**I want to utilize my knowledge and skills to help our people and environment.**
 
 ## Recent activity
 
