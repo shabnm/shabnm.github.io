@@ -4,7 +4,7 @@ I am a Machine Learning Engineer, who takes pride in building models that transl
 
 ## Recent activity
 
-> [Going to attend DLRL summer school(08/2020)](https://dlrlsummerschool.ca/)<br/>
+> [**Going to attend DLRL summer school(08/2020)**](https://dlrlsummerschool.ca/)<br/>
 The summer school is hosted by CIFAR and Mila, with participation and support from Amii and the Vector Institute, plays a significant role in supporting Canada’s early
 leadership in machine learning.
 
@@ -31,26 +31,26 @@ Results obtained are:
 ![Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/result.PNG?raw=true)<br/>
 
 ---
-> [ImplementAI Hackathon](https://github.com/shabnm/CAE_ImplementAI?raw=true)<br/>
+> [**ImplementAI Hackathon**](https://github.com/shabnm/CAE_ImplementAI?raw=true)<br/>
 CAE has collected data during the training session of pilots and their responses of being flagged or not. Based on pre-labelled data, we train a model to flag pilot accurately on future training sessions of pilot.<br/>
 
 ---
-> [Image Processing](https://docs.google.com/presentation/d/1ztNmtf_HhKcqMISRH7HKKMaUdcEDHvofDtEh22I2IaU/edit?usp=sharing)<br/>
+> [**Image Processing**](https://docs.google.com/presentation/d/1ztNmtf_HhKcqMISRH7HKKMaUdcEDHvofDtEh22I2IaU/edit?usp=sharing)<br/>
 Collaborated with 2 undergraduate students to reproduce the research paper written by Reza Zahiri, "Motion Estimation in Ultrasound Images Using TDPE", using MATLAB.
 TDPE is an improvement of the TDE approach, used to measure displacement of tissue in elastography images under compression  to infer its elastic property.
 Detailed report is [here](https://docs.google.com/document/d/1emDLXIsyWqPVcunZluO8D8KlDFiAus26t5_x1LU0mBM/edit?usp=sharing)
 
 ---
-> [McGill Women in computer science "McWiCS hackathon" 2019](https://github.com/shabnm/EnableR_McWiCS_hackathon?raw=true)<br/>
+> [**McGill Women in computer science "McWiCS hackathon" 2019**](https://github.com/shabnm/EnableR_McWiCS_hackathon?raw=true)<br/>
 Build an application "EnableR" to enable differently abled people.
 
 ---
-> [Artificial Intelligence](https://github.com/shabnm/COMP6721_SPAM_HAM_classifier)<br/>
+> [**Artificial Intelligence**](https://github.com/shabnm/COMP6721_SPAM_HAM_classifier)<br/>
 Teaming with a classmate to build an efficient adversarial search algorithm to play the game Double Card. We implemented minimax and alpha beta pruning along with our heuristics, to optimize the search. Our AI beat 85% of the students during the class tournament.
 The 2nd project includes building a Spam\Ham classifier using  Naive-Bayes classifier to sort emails into SPAM and HAM classes. We started by cleaning the document by removing stop words, removing most and least frequent words, stemming and then creating the inverted index and performing the classification. Confusion matrix was used to see the result.
 
 ---
-> [Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis](https://docs.google.com/document/d/1hTY4NMTP7BcKq2fw7jBfQiQSI5QDCT4qESJ_HYHspyw/edit?usp=sharing)<br/>
+> [**Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis**](https://docs.google.com/document/d/1hTY4NMTP7BcKq2fw7jBfQiQSI5QDCT4qESJ_HYHspyw/edit?usp=sharing)<br/>
 Build a web search engine, which displays the top 10 most relevant URLs to the user ,based on the cosine similarity and the aFinn score(sentiment analysis).  
 Implemented Boolean retrieval and Ranked retrieval model, on the inverted index, formed using SPIMI algorithm ,using Python and its library NLTK and BeautifulSoup.
 
