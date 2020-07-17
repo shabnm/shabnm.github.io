@@ -53,7 +53,7 @@ CAE has collected data during the training session of pilots and their responses
 > **Image Processing** [click here](https://docs.google.com/presentation/d/1ztNmtf_HhKcqMISRH7HKKMaUdcEDHvofDtEh22I2IaU/edit?usp=sharing)<br/>
 Collaborated with 2 undergraduate students to reproduce the research paper written by Reza Zahiri, "Motion Estimation in Ultrasound Images Using TDPE", using MATLAB.
 TDPE is an improvement of the TDE approach, used to measure displacement of tissue in elastography images under compression  to infer its elastic property.
-Detailed report is [here](https://docs.google.com/document/d/1emDLXIsyWqPVcunZluO8D8KlDFiAus26t5_x1LU0mBM/edit?usp=sharing
+Detailed report is [here](https://docs.google.com/document/d/1emDLXIsyWqPVcunZluO8D8KlDFiAus26t5_x1LU0mBM/edit?usp=sharing)
 
 ---
 > **McGill Women in computer science "McWiCS hackathon" 2019** [click here](https://github.com/shabnm/EnableR_McWiCS_hackathon?raw=true)<br/>
@@ -84,7 +84,5 @@ Implemented Boolean retrieval and Ranked retrieval model, on the inverted index,
 - Tools Used: Android Studio, Selenium, HP QTP, Eclipse, See Test Automation, SOAPUI
 - Languages Used: Java, VB script, Groovy, Python
 - Database Used: MongoDB, MySQL, DB2, QMF for workstation
-
----
 
 ---
