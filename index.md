@@ -34,7 +34,7 @@ Machine Learning algorithms, Probability/Statistics, Deep neural network, CNN, I
 > **Machine Learning**<br/>
 Dataset from different sources are given to us, and we performed supervised learning on labelled data to predict the output of future inputs.<br/>
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
-Pipeline used: 
+Pipeline used: <br/>
 ![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG?raw=true)<br/>
 Performing hyperparameter search(shown below are classification models only), evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/>
 ![Test Image 2](https://github.com/shabnm/shabnm.github.io/blob/master/images/hyperparameter_tuning.PNG?raw=true)<br/>
@@ -77,7 +77,7 @@ Implemented Boolean retrieval and Ranked retrieval model, on the inverted index,
 ## Work Experience<br/>
 
 ---
-> Worked at Wipro Technologies (sept 2015- july 2018), Bangalore, India.
+> Software Engineer at Wipro Technologies (sept 2015 - july 2018), Bangalore, India.
 - Worked as Android app developer for an inventory management application for ESAB IoT. 
 - *In recognition of performance and continued contribution,promoted to higher band and awarded 5-star rating for 3 consecutive quarters.*
 - Worked as Automation Test Engineer for Charles Schwab Bank and Walmart Retail link.
