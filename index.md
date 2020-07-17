@@ -1,7 +1,7 @@
 ## ABOUT ME
 
 ---
-I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> Apart from my university courses, I have gained knowledge and improved my technical and non-tech skills through online courses, workshops, hackathons and volunteer works.<br/> I was VP membership 2019-2020 for ["Data Innovation Playground"]( http://dipconcordia.com/) society of Concordia University.<br/>I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
+I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> Apart from my university courses, I have gained knowledge and improved my technical and non-tech skills through online courses, workshops, hackathons and volunteer works.<br/> I was [VP membership 2019-2020](https://github.com/shabnm/shabnm.github.io/blob/master/images/CCR_Shabnam.pdf) for ["Data Innovation Playground"]( http://dipconcordia.com/) society of Concordia University.<br/>I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
 *I want to utilize my knowledge and skills to help our people and environment.*
 
 ---
@@ -35,9 +35,9 @@ Machine Learning algorithms, Probability/Statistics, Deep neural network, CNN, I
 Dataset from different sources are given to us, and we performed supervised learning on labelled data to predict the output of future inputs.<br/>
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
 Pipeline used: 
-![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG?raw=true)
+![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG?raw=true)<br/>
 Performing hyperparameter search(shown below are classification models only), evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/>
-![Test Image 2](https://github.com/shabnm/shabnm.github.io/blob/master/images/hyperparameter_tuning.PNG?raw=true)
+![Test Image 2](https://github.com/shabnm/shabnm.github.io/blob/master/images/hyperparameter_tuning.PNG?raw=true)<br/>
 Loading and training a CNN using PyTorch to classify images in the CIFAR-10 dataset.<br/>
 We build 2 model, basic(Model1) and advance(Model2)<br/>
 ![Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn1.PNG?raw=true)
