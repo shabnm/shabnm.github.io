@@ -8,10 +8,13 @@ The summer school is hosted by CIFAR and Mila, with participation and support fr
 leadership in machine learning.
 
 > **Home Fitness Application(AILaunchLab)**<br/>
-Working to train a model to identify the workout type performed by user and correct them in real-time for Home fitness program.
-  - Brainstormed on finding the right dataset,
-  - Deciding on different activity recognition approaches
-  - Finding ways to perform pose identification and correction
+Working to train a model to identify the workout type performed by user and correct them in real-time for Home fitness program.<br/>
+Work involves:<br/>
+Brainstorming on finding the right dataset,<br/>
+Deciding on different activity recognition approaches,<br/>
+Finding ways to perform pose identification and correction,<br/>
+Working in virtual and distributed environment,<br/>
+and most important "having FUN".
 ---
 ## Skill set
 Machine Learning algorithms, Probability/Statistics, Deep neural network, CNN, Image Analysis, python, Keras, Pytorch, tensorflow, scikit-learn, matplotlib, numpy, pandas, notebook, java, MATLAB, git
@@ -47,7 +50,7 @@ Build an application "EnableR" to enable differently abled people.
 Teaming with a classmate to build an efficient adversarial search algorithm to play the game Double Card. We implemented minimax and alpha beta pruning along with our heuristics, to optimize the search. Our AI beat 85% of the students during the class tournament.
 The 2nd project includes building a Spam\Ham classifier using  Naive-Bayes classifier to sort emails into SPAM and HAM classes. We started by cleaning the document by removing stop words, removing most and least frequent words, stemming and then creating the inverted index and performing the classification. Confusion matrix was used to see the result.
 ---
-> **Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis** [click here]https://docs.google.com/document/d/1hTY4NMTP7BcKq2fw7jBfQiQSI5QDCT4qESJ_HYHspyw/edit?usp=sharing)<br/>
+> **Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis** [click here](https://docs.google.com/document/d/1hTY4NMTP7BcKq2fw7jBfQiQSI5QDCT4qESJ_HYHspyw/edit?usp=sharing)<br/>
 Build a web search engine, which displays the top 10 most relevant URLs to the user ,based on the cosine similarity and the aFinn score(sentiment analysis).  
 Implemented Boolean retrieval and Ranked retrieval model, on the inverted index, formed using SPIMI algorithm ,using Python and its library NLTK and BeautifulSoup.
 ---
