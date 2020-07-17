@@ -2,5 +2,9 @@ title: SHABNAM HASAN # your name (or website title) here
 logo: "/images/me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MACHINE LEARNING ENGINEER<br/>
+  <br/><br/>
+  
+  ---
+  
   <a href="https://www.linkedin.com/in/shabnam-hasan-1588949a">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
