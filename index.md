@@ -32,7 +32,7 @@ Machine Learning algorithms, Probability/Statistics, Deep neural network, CNN, I
 
 ---
 > **Machine Learning**<br/>
-Dataset from different sources are given to us, and we performed supervised learning on labelled data to predict the output of future inputs.<br/>
+Dataset from different sources(UCI repository, kaggle challenge and the UoT CIFAR dataset website) are given to us, and we performed supervised learning on labelled data to predict the output of future unseen inputs(diabetic Retinopathy, wine quality, breast cancer Wisconsin, aquatic toxicity, student performance etc).<br/>
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
 Pipeline used: <br/>
 ![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG?raw=true)<br/>
