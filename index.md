@@ -21,6 +21,9 @@ Finding ways to perform pose identification and correction,<br/>
 Working in virtual and distributed environment,<br/>
 and most important "having FUN".
 
+> [**Working on Autoencoders**](https://github.com/shabnm/autoencoder)<br/>
+Experiment with autoencoders to achieve dimensionality reduction, denoising Image, Watermark Removal.<br/>
+
 ---
 ## Skill set
 
