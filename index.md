@@ -8,7 +8,7 @@ I am a Machine Learning Engineer, who takes pride in building models that transl
 ## Recent activity
 
 ---
-> [**Going to attend DLRL summer school(08/2020)**](https://dlrlsummerschool.ca/)<br/>
+> [**Attending DLRL summer school(08/2020)**](https://dlrlsummerschool.ca/)<br/>
 The summer school is hosted by CIFAR and Mila, with participation and support from Amii and the Vector Institute, plays a significant role in supporting Canada’s early
 leadership in machine learning.
 
@@ -39,14 +39,8 @@ Dataset from different sources(UCI repository, kaggle challenge and the UoT CIFA
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
 Pipeline used: <br/>
 ![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG?raw=true)<br/>
-Performing hyperparameter search(shown below are classification models only), evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/>
-![Test Image 2](https://github.com/shabnm/shabnm.github.io/blob/master/images/hyperparameter_tuning.PNG?raw=true)<br/>
+Performing hyperparameter search, evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/
 Loading and training a CNN using PyTorch to classify images in the CIFAR-10 dataset.<br/>
-We build 2 model, basic(Model1) and advance(Model2)<br/>
-![Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn1.PNG?raw=true)
-![Model2](https://github.com/shabnm/shabnm.github.io/blob/master/images/cnn2.PNG?raw=true)
-Results obtained are: 
-![Model1](https://github.com/shabnm/shabnm.github.io/blob/master/images/result.PNG?raw=true)<br/>
 
 ---
 > **ImplementAI Hackathon** [click here](https://github.com/shabnm/CAE_ImplementAI?raw=true)<br/>
@@ -68,7 +62,7 @@ Teaming with a classmate to build an efficient adversarial search algorithm to p
 The 2nd project includes building a Spam\Ham classifier using  Naive-Bayes classifier to sort emails into SPAM and HAM classes. We started by cleaning the document by removing stop words, removing most and least frequent words, stemming and then creating the inverted index and performing the classification. Confusion matrix was used to see the result.
 
 ---
-> **Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis** [click here](https://docs.google.com/document/d/1hTY4NMTP7BcKq2fw7jBfQiQSI5QDCT4qESJ_HYHspyw/edit?usp=sharing)<br/>
+> **Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis**
 Build a web search engine, which displays the top 10 most relevant URLs to the user ,based on the cosine similarity and the aFinn score(sentiment analysis).  
 Implemented Boolean retrieval and Ranked retrieval model, on the inverted index, formed using SPIMI algorithm ,using Python and its library NLTK and BeautifulSoup.
 
