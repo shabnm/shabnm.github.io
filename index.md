@@ -1,5 +1,7 @@
-Masters of Applied Computer Science (Sept 2018 - June 2020) - Concordia University, Montreal, Canada
+Masters of Applied Computer Science (Sept 2018 - June 2020)<br/>
+Concordia University, Montreal, Canada
 
+---
 ## ABOUT ME
 
 ---
@@ -10,7 +12,7 @@ I am a Machine Learning Engineer, who takes pride in building models that transl
 ## Recent activity
 
 ---
-> [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/)<br/>
+> [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/?raw=true)<br/>
 ![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/0.jpg)<br/>
 The summer school is hosted by CIFAR and Mila, with participation and support from Amii and the Vector Institute, plays a significant role in supporting Canada’s early
 leadership in machine learning.
@@ -24,7 +26,7 @@ Finding ways to perform pose identification and correction,<br/>
 Working in virtual and distributed environment,<br/>
 and most important "having FUN".<br/>
 Snap from Demo day(08/08/2020)<br/>
-![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/demo_final.png)<br/>
+![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/demo_final.png?raw=true)<br/>
 
 
 > [**Working on Autoencoders**](https://github.com/shabnm/autoencoder)<br/>
