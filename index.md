@@ -12,8 +12,8 @@ I am a Machine Learning Engineer, who takes pride in building models that transl
 ## Recent activity
 
 ---
-> [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/?raw=true)<br/>
-![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/0.jpg)<br/>
+> [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/)<br/>
+![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/0.jpg?raw=true)<br/>
 The summer school is hosted by CIFAR and Mila, with participation and support from Amii and the Vector Institute, plays a significant role in supporting Canada’s early
 leadership in machine learning.
 
