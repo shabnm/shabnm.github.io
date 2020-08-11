@@ -1,3 +1,5 @@
+Masters of Applied Computer Science (Sept 2018 - June 2020) - Concordia University, Montreal, Canada
+
 ## ABOUT ME
 
 ---
@@ -8,18 +10,22 @@ I am a Machine Learning Engineer, who takes pride in building models that transl
 ## Recent activity
 
 ---
-> [**Attending DLRL summer school(08/2020)**](https://dlrlsummerschool.ca/)<br/>
+> [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/)<br/>
+![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/0.jpg)<br/>
 The summer school is hosted by CIFAR and Mila, with participation and support from Amii and the Vector Institute, plays a significant role in supporting Canada’s early
 leadership in machine learning.
 
-> **Home Fitness Application(AILaunchLab)**<br/>
+> **Home Fitness Application(AILaunchLab)(May - August 2020)**<br/>
 Working to train a model to identify the workout type performed by user and correct them in real-time for Home fitness program.<br/>
 Work involves:<br/>
 Brainstorming on finding the right dataset,<br/>
 Deciding on different activity recognition approaches,<br/>
 Finding ways to perform pose identification and correction,<br/>
 Working in virtual and distributed environment,<br/>
-and most important "having FUN".
+and most important "having FUN".<br/>
+Snap from Demo day(08/08/2020)<br/>
+![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/demo_final.png)<br/>
+
 
 > [**Working on Autoencoders**](https://github.com/shabnm/autoencoder)<br/>
 Experimenting with autoencoders to achieve dimensionality reduction, denoising Image, Watermark Removal.<br/>
