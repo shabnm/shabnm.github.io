@@ -21,8 +21,8 @@ leadership in machine learning.
 Working to train a model to identify the workout type performed by user and correct them in real-time for Home fitness program.<br/>
 Work involves:<br/>
 Brainstorming on finding the right dataset,<br/>
-Deciding on different activity recognition approaches,<br/>
-Finding ways to perform pose identification and correction,<br/>
+Deciding on different activity recognition approaches and its implementation,<br/>
+Finding ways to perform and implement pose correction,<br/>
 Working in virtual and distributed environment,<br/>
 and most important "having FUN".<br/>
 Snap from Demo day(08/08/2020)<br/>
@@ -47,7 +47,7 @@ Dataset from different sources(UCI repository, kaggle challenge and the UoT CIFA
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
 Pipeline used: <br/>
 ![Test Image 1](https://github.com/shabnm/shabnm.github.io/blob/master/images/pipeline_ML.PNG?raw=true)<br/>
-Performing hyperparameter search, evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/
+Performing hyperparameter search, evaluating (using F1 score, precision, recall, RMSE, r2 score) and summarizing performance by generating plots.<br/>
 Loading and training a CNN using PyTorch to classify images in the CIFAR-10 dataset.<br/>
 
 ---
@@ -84,7 +84,7 @@ Implemented Boolean retrieval and Ranked retrieval model, on the inverted index,
 ---
 > Software Engineer at Wipro Technologies (sept 2015 - july 2018), Bangalore, India.
 - Worked as Android app developer for an inventory management application for ESAB IoT. 
-- *In recognition of performance and continued contribution,promoted to higher band and awarded 5-star rating for 3 consecutive quarters.*
+- *In recognition of performance and continued contribution,promoted to higher band and awarded 5-star rating for consecutive quarters.*
 - Worked as Automation Test Engineer for Charles Schwab Bank and Walmart Retail link.
 - Tools Used: Android Studio, Selenium, HP QTP, Eclipse, See Test Automation, SOAPUI
 - Languages Used: Java, VB script, Groovy, Python
