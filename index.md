@@ -5,17 +5,22 @@ Concordia University, Montreal, Canada
 ## ABOUT ME
 
 ---
-I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> Apart from my university courses, I have gained knowledge and improved my technical and non-tech skills through online courses, workshops, hackathons and volunteer works.<br/> I was [VP membership 2019-2020](https://github.com/shabnm/shabnm.github.io/blob/master/images/CCR_Shabnam.pdf) for ["Data Innovation Playground"]( http://dipconcordia.com/) society of Concordia University.<br/>I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
+I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> .<br/>In my free time, I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
 *I want to utilize my knowledge and skills to help our people and environment.*
 
 ---
 ## Recent activity
 
 ---
+> **Co-operathon-2020 Semi-finalist**<br/>
+Cratos offers 1-1 remote physiotherapy along with services that use computer vision to help patients. Our mission is to “Enable tailored physical care treatments for all Canadians, when and where they need it”.
+![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/image.png?raw=true)<br/>
+![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/socio-eco.png?raw=true)<br/>
+
 > [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/)<br/>
 ![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/0.jpg?raw=true)<br/>
 The summer school is hosted by CIFAR and Mila, with participation and support from Amii and the Vector Institute, plays a significant role in supporting Canada’s early
-leadership in machine learning.
+leadership in machine learning.<br/>
 
 > **Home Fitness Application(AILaunchLab)(May - August 2020)**<br/>
 Working to train a model to identify the workout type performed by user and correct them in real-time for Home fitness program.<br/>
@@ -30,7 +35,7 @@ Snap from Demo day(08/08/2020)<br/>
 
 
 > [**Working on Autoencoders**](https://github.com/shabnm/autoencoder)<br/>
-Experimenting with autoencoders to achieve dimensionality reduction, denoising Image, Watermark Removal.<br/>
+Experimenting with autoencoders to achieve dimensionality reduction.<br/>
 
 ---
 ## Skill set
