@@ -5,7 +5,8 @@ Concordia University, Montreal, Canada
 ## ABOUT ME
 
 ---
-I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> .<br/>In my free time, I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
+I am a Machine Learning Engineer, who takes pride in building models that translate data into insight. My immense interest in the field helped me in acquiring in-depth knowledge through theory courses and project development.<br/> 
+In my free time, I like to spend time with my family and friends, do painting, watch movies(sci-fi and horror), listen to music, visit places, workout and what not.
 *I want to utilize my knowledge and skills to help our people and environment.*
 
 ---
