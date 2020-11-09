@@ -13,7 +13,7 @@ In my free time, I like to spend time with my family and friends, do painting, w
 ## Recent activity
 
 ---
-> **Co-operathon-2020 Semi-finalist**<br/>
+> [**Co-operathon-2020 Semi-finalist(Nov 2020)**](https://cooperathon.ca/finalists-nominees-2020/?lang=en)<br/>
 Cratos offers 1-1 remote physiotherapy along with services that use computer vision to help patients. Our mission is to “Enable tailored physical care treatments for all Canadians, when and where they need it”.
 ![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/image.png?raw=true)<br/>
 ![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/socio-eco.png?raw=true)<br/>
