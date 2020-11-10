@@ -42,12 +42,15 @@ Experimenting with autoencoders to achieve dimensionality reduction.<br/>
 ## Skill set
 
 ---
-Machine Learning algorithms, Probability/Statistics, Deep neural network, CNN, Image Analysis, python, Keras, Pytorch, tensorflow, scikit-learn, matplotlib, numpy, pandas, notebook, java, MATLAB, git
+Python, Machine Learning algorithms, Probability, Statistics, Collaborative filtering, Deep neural network, CNN, RNN, LSTM, Image Analysis, computer vision, autoencoders, Pytorch, tensorflow, scikit-learn, matplotlib, nltk, numpy, pandas, MATLAB, spark, AWS for ML, git, Java, agile
 
 ---
 ## Projects
 
 ---
+> **Recommendation Systemusing Collaborative Filtering** [click here](https://github.com/shabnm/Recommendation_system_practice?raw=true)<br/>
+Perform collaborative filtering using Memory and model based to train a Recommendation system on MovieLens data. Uses item based and user based along with SVD, knn and ALS technique to perform the task.<br/>
+
 > **Machine Learning**<br/>
 Dataset from different sources(UCI repository, kaggle challenge and the UoT CIFAR dataset website) are given to us, and we performed supervised learning on labelled data to predict the output of future unseen inputs(diabetic Retinopathy, wine quality, breast cancer Wisconsin, aquatic toxicity, student performance etc).<br/>
 The course project involves collecting and preparing datasets for training supervised learning algorithms(Classification and Regression models).<br/>
