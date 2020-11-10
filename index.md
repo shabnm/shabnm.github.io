@@ -48,7 +48,7 @@ Python, Machine Learning algorithms, Probability, Statistics, Collaborative filt
 ## Projects
 
 ---
-> **Recommendation Systemusing Collaborative Filtering** [click here](https://github.com/shabnm/Recommendation_system_practice?raw=true)<br/>
+> **Recommendation System using Collaborative Filtering** [click here](https://github.com/shabnm/Recommendation_system_practice?raw=true)<br/>
 Perform collaborative filtering using Memory and model based to train a Recommendation system on MovieLens data. Uses item based and user based along with SVD, knn and ALS technique to perform the task.<br/>
 
 > **Machine Learning**<br/>
