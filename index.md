@@ -12,12 +12,12 @@ In my free time, I like to spend time with my family and friends, do painting, w
 ## Recent activity
 
 ---
-> [**WON Co-operathon-2020 Dialogue challenge(Nov 2020)**](https://cooperathon.ca/finalists-nominees-2020/?lang=en)<br/>
-We build Cratos, that offers 1-1 remote physiotherapy along with services that use computer vision to help patients.<br/>
+> **WON Co-operathon-2020 Dialogue challenge(Nov 2020)** [click here](https://cooperathon.ca/finalists-nominees-2020/?lang=en)<br/>
+Our application [Cratos](https://www.cratoshealth.co/) offers 1-1 remote physiotherapy along with services that use computer vision to help patients. Our MVP is in progress.<br/>
 ![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/cratos_winner_certifcate.PNG?raw=true)<br/>
 
 ---
-> [**Attended DLRL summer school(3-7 August 2020)**](https://dlrlsummerschool.ca/)<br/>
+> **Attended DLRL summer school(3-7 August 2020)**[click here](https://dlrlsummerschool.ca/)<br/>
 ![Test Image](https://github.com/shabnm/shabnm.github.io/blob/master/images/DLRL_certificate.PNG?raw=true)<br/>
 
 ---
@@ -62,7 +62,7 @@ Teaming with a classmate to build an efficient adversarial search algorithm to p
 The 2nd project includes building a Spam\Ham classifier using  Naive-Bayes classifier to sort emails into SPAM and HAM classes. We started by cleaning the document by removing stop words, removing most and least frequent words, stemming and then creating the inverted index and performing the classification. Confusion matrix was used to see the result.<br/>
 
 ---
-> **Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis**
+> **Information Retrieval and Web Search using Web Crawling & aFinn sentiment analysis**<br/>
 Build a web search engine, which displays the top 10 most relevant URLs to the user ,based on the cosine similarity and the aFinn score(sentiment analysis).  
 Implemented Boolean retrieval and Ranked retrieval model, on the inverted index, formed using SPIMI algorithm ,using Python and its library NLTK and BeautifulSoup.<br/>
 
