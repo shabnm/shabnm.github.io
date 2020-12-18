@@ -36,7 +36,9 @@ Experimenting with autoencoders to achieve dimensionality reduction.<br/>
 ## Skill set
 
 ---
-Python, Django, Java, kotlin, ML algorithms, Deep NN, CNN, RNN, LSTM, Image Analysis, computer vision, autoencoders, NLP, Pytorch, tensorflow ,scikit-learn, matplotlib, nltk, numpy, pandas, spark, AWS for ML, RestAPI, postman, Git, Bitbucket, Jira, Agile methodology<br/>
+-Python, Django, Java, kotlin, 
+-ML algorithms, Deep NN, CNN, RNN, LSTM, Image Analysis, computer vision, autoencoders, NLP, Pytorch, tensorflow ,scikit-learn, matplotlib, nltk, numpy, pandas, spark, AWS for ML,
+-RestAPI, postman, Git, Bitbucket, Jira, Agile methodology<br/>
 
 ---
 ## Projects
