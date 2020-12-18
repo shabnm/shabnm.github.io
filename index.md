@@ -29,7 +29,7 @@ Achieve pose recognition and correction through LSTM model and geometric heurist
 Maintain a high performance in a virtual environment.<br/>
 
 ---
-> [**Working on Autoencoders**](https://github.com/shabnm/autoencoder)<br/>
+> **Working on Autoencoders** [click here](https://github.com/shabnm/autoencoder)<br/>
 Experimenting with autoencoders to achieve dimensionality reduction.<br/>
 
 ---
